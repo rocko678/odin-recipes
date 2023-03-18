@@ -1,0 +1,16 @@
+/* styles */
+
+* {
+     font-family: 'DM Sans', sans-serif;
+     font-size: medium;
+    color: rgb(36, 3, 3);
+}
+h1 {
+    text-align: center;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
